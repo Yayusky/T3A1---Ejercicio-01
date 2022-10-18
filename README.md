@@ -26,5 +26,5 @@ Salida:
         Promedio: 85
 
 ## Diagrama de clase
-![alt text](https://github.com/Yayusky/T3A1---Ejercicio-01/blob/main/T3A1.png?raw=true)
+![](https://github.com/Yayusky/T3A1---Ejercicio-01/blob/main/T3A1.png?raw=true)
 
