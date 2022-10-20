@@ -25,6 +25,7 @@ Salida:
 
         Promedio: 85
 
-## Diagrama de clase
+## Etapa 3. Diagrama de clase
 ![](https://github.com/Yayusky/T3A1---Ejercicio-01/blob/main/T3A1.png?raw=true)
 
+## Etapa 4. Solucion del problema
