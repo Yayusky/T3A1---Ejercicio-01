@@ -29,3 +29,4 @@ Salida:
 ![](https://github.com/Yayusky/T3A1---Ejercicio-01/blob/main/T3A1.png?raw=true)
 
 ## Etapa 4. Solucion del problema
+https://github.com/Yayusky/T3A1---Ejercicio-01/blob/325d167d1fbd619fb8829e26c21bedb3d49c3ad8/TT3A1.zip
